@@ -148,7 +148,7 @@ z-index: 2;
 #header
 {
 position: absolute;
-background: #FF7800 url('images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
+background: #FF7800 url('images/Sci6Bitaicon.png') norepeat; /* images/a8.gif repeat-x */
 width: 248px; /* 202px */
 height: 92px;
 color: #fff;
