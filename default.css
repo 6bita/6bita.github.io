@@ -149,7 +149,7 @@ z-index: 2;
 {
 position: absolute;
 background: #FF7800 url('images/Sci6Bitaicon.png') repeat-x; /* images/a8.gif */
-/* width: 202px; */
+width: cover; /* 202px */
 height: 92px;
 color: #fff;
 padding-left: 20px;
