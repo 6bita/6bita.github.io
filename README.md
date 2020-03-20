@@ -1,2 +1,2 @@
 # 6bita.github.io
-Publicaciones de Sci Bita
+Publicaciones de Sci 6Bita
