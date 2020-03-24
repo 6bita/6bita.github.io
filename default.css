@@ -285,15 +285,17 @@ float: left;
 
 #primarycontent h3
 {
-position: relative;
-top: 4px;
-font-size: 18px;
-line-height: 25px;
-color: #656551;
-letter-spacing: 2px;
-background: url('images/a22.gif') bottom repeat-x;
-padding: 0px 0px 10px 15px;
-margin-bottom: 20px;
+    position: relative;
+    top: 4px;
+    font-size: 24px;
+    line-height: 25px;
+    color: #73d276;
+    letter-spacing: 1px;
+    background: url(images/a22.gif) bottom repeat-x;
+    padding: 0px 0px 10px 15px;
+    margin-bottom: 20px;
+    font-family: 'Oswald';
+    font-weight: 900;
 }
 
 #primarycontent .content
