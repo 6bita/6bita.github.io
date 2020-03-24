@@ -271,6 +271,9 @@ margin-bottom: 20px;
 {
 padding: 0px 10px 0px 10px;
 margin-bottom: 20px;
+font-family: Monaco,Consolas,"Lucida Console",monospace;
+font-size: .75em;
+line-height: 20px;
 }
 
 #primarycontent
