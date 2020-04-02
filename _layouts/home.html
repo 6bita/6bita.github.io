@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+	terrafirma1.0 by n33 design
+	http://www.nodethirtythree.com
+
+-->
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div id="outer">
+
+      <div id="upbg"></div>
+
+      <div id="inner">
+
+        {% include header-splash.html %}
+
+        {% include menu.html %}
+
+        <div id="primarycontent">
+
+          <div class="post">
+
+    				<div class="header">
+    					<div class="date">Julio 19, 2019</div>
+    				</div>
+    				<div class="header">
+    					<h3 style="letter-spacing: 0.00;font-family: 'Oswald';">Gurbaani<sup>1.0</sup> TV</h3>
+
+    				</div>
+    				<div class="content">
+    					<img src="images/rect836.png" class="picB floatleft" alt="" />
+    					<p><strong>Gurbaani TV</strong>: emite desde el templo de Dios en directo</p>
+    					<iframe width="426" height="240" src="https://www.youtube.com/embed/ZlLJeMCqqFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    				</div>
+            <div class="footer">
+              <ul>
+                <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/manifesto.html">Comentarios</a></li></center></buttom>
+                <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/manifesto.html">Mostrar Mas</a></li></center><buttom>
+              </ul>
+            </div>
+    			</div>
+
+          {% for post in site.posts limit: 5 %}
+
+            <div class="post">
+
+              <div class="header">
+                <div class="date">{{ post.fecha }}</div>
+              </div>
+              <br>
+              <div class="header">
+                <h3 style="font-family: 'Oswald', sans-serif;color: #61613f;">
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </h3>
+              </div>
+              <div class="content">
+                <img src="{{ post.image }}" class="picB floatleft" alt="{{ post.title }}" />
+                <p>{{ post.description }}</p>
+              </div>
+              <div class="footer">
+                <ul>
+                  <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ post.url }}">Comentarios</a></li></center></buttom>
+                  <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ post.url }}">Mostrar Mas</a></li></center><buttom>
+                </ul>
+              </div>
+
+            </div>
+
+
+
+          {% endfor %}
+
+          <a href="{{ site.url }}/manifesto.html">
+            <img src="{{ site.url }}/images/el6ceibita.png" class="responsive-img">
+          </a>
+
+        </div>
+        <!-- end primarycontent -->
+
+        <div id="secondarycontent">
+
+          <h3 style="color: #61613f;">Acerca de Sci6Bita</h3><!-- font-family: fantasy; -->
+          <div class="content">
+            <img src="images/Sci6Bitaeicon.png" class="picB" alt="Sci6Bita - Agencia de Opiniones" style="margin-bottom: 10px;" />
+            <p>
+              Sci6Bita es una Agencia de Opiniones integrada por El 6Ceibita
+            </p>
+          </div>
+
+          <h3 style="color: #61613f;">Acerca de Pen1as del CA Penarol</h3>
+    			<div class="content">
+    				<img src="images/rect2651.png" class="picB" alt="Las Peñas del CA Peñarol  " style="margin-bottom: 10px;" /> <!-- images/pen1as.png -->
+    				<p>
+    					En el exterior 10 socios con la cuota al dia pueden formar una Pen1a del CA Penarol
+            </p>
+            <p>
+              En Uruguay 20 socios con la cuota al dia pueden tambien formar una Pen1a del CA penarol
+            </p>
+    			</div>
+
+          <div class="content">
+            <div class="anuncios-gratis">
+              <p>¡Su anuncio puede publicarse aqui gratis!</p>
+              <p>contacto: ceibita@mail.ru</p>
+            </div>
+          </div>
+
+        </div>
+        <!-- end secondarycontent -->
+
+        {% include footer.html %}
+
+      </div>
+      <!-- end inner -->
+
+    </div>
+    <!-- end outer -->
+
+
+
+
+      </div>
+
+    </div>
+
+  </body>
+
+</html>

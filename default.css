@@ -43,6 +43,11 @@ text-decoration: none;
 color: red;
 }
 
+a:visited
+{
+color: #614a0a;
+}
+
 sup
 {
 font-size: 0.5em;
@@ -53,6 +58,7 @@ p
 {
 margin-bottom: 14px;
 text-align: justify;
+line-height: normal;
 }
 
 img.picA
@@ -150,9 +156,9 @@ z-index: 2;
 #header
 {
 position: absolute;
-background: #FF7800 url('images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
+background: #FF7800 url('{{ site.url }}/images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
 left: 30px;
-width: 303px; /* 202px */
+width: 680px; /* 202px 303px */
 height: 92px;
 color: #fff;
 margin-left: 0px;
@@ -190,7 +196,7 @@ color: #FCE2CA;
 {
 position: absolute;
 right: 30px;
-background: #EAEAE2 url('images/el6ceibita.png') no-repeat; /* images/a10.jpg */
+background: url('{{ site.url }}/images/el6ceibita.png') no-repeat; /* images/a10.jpg #EAEAE2 */
 width: 458px;
 height: 92;
 }
@@ -260,13 +266,15 @@ float: right;
 {
 position: relative;
 top: 4px;
-font-size: 16px;
+font-size: 18px;
 line-height: 25px;
 color: #656551;
 letter-spacing: -1px;
 background: url('images/a22.gif') bottom repeat-x;
 padding: 0px 0px 10px 10px;
 margin-bottom: 20px;
+font-family: 'Oswald';
+font-weight: normal;
 }
 
 #secondarycontent .content
@@ -274,8 +282,26 @@ margin-bottom: 20px;
 padding: 0px 10px 0px 10px;
 margin-bottom: 20px;
 font-family: Monaco,Consolas,"Lucida Console",monospace;
-font-size: .75em;
+font-size: .58em;
 line-height: 20px;
+}
+
+#secondarycontent .anuncios-gratis
+{
+position: relative;
+top: 4px;
+font-size: 16px;
+line-height: 25px;
+color: #000; /* #656551 */
+background: url(images/a22.gif) bottom repeat-x;
+padding: 5px 10px 0px 10px;
+margin-bottom: 20px;
+font-family: sans-serif;
+letter-spacing: normal;
+border-top: solid 2px #000;/* rgb(255, 0, 0) */
+border-bottom: solid 2px #000;
+border-left: solid 2px #000;
+border-right: solid 2px #000;
 }
 
 #primarycontent
@@ -289,13 +315,15 @@ float: left;
 {
     position: relative;
     top: 4px;
-    font-size: 24px;
+    font-size: 26px;
     line-height: 25px;
     color: #656551;
     letter-spacing: -1px;
     background: url(images/a22.gif) bottom repeat-x;
     padding: 0px 0px 10px 10px;
     margin-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: normal;
 }
 
 #primarycontent .content
@@ -373,15 +401,25 @@ background-image: url('images/a38.gif');
 #footer
 {
 position: relative;
+top: 30px;
 clear: both;
 height: 66px;
 text-align: center;
 line-height: 66px;
 background-image: url('images/a50.gif');
 color: #A8A88D;
+margin-bottom: 20px;
+font-family: Monaco,Consolas,"Lucida Console",monospace;
+font-size: .58em;
+line-height: 18px;
 }
 
 #footer a
 {
 color: #8C8C73;
+}
+
+#footer a :hoover
+{
+color: red;
 }

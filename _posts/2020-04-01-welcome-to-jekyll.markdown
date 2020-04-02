@@ -2,10 +2,10 @@
 layout: post
 title:  "Welcome to Jekyll!"
 description: "Jekyll es un programa utilizado para la construccion de sitios estaticos sobre todo sitios estaticos alojados en GitHub totalmente gratuito"
-date:   2020-03-30T00:00:00
-fecha: Marzo 30, 2020
+date:   2020-04-01T00:00
+fecha: Abril 1, 2020
 categories: jekyll update
-image: /images/jekyll.png
+image: "/images/jekyll.png"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
