@@ -304,6 +304,24 @@ border-left: solid 2px #000;
 border-right: solid 2px #000;
 }
 
+#secondarycontent .dominguez-propaganda
+{
+position: relative;
+top: 4px;
+font-size: 16px;
+line-height: 25px;
+color: #000; /* #656551 */
+background: url(images/a22.gif) bottom repeat-x;
+padding: 5px 10px 0px 10px;
+margin-bottom: 20px;
+font-family: sans-serif;
+letter-spacing: normal;
+border-top: solid 2px red;/* rgb(255, 0, 0) */
+border-bottom: solid 2px red;
+border-left: solid 2px red;
+border-right: solid 2px red;
+}
+
 #primarycontent
 {
 position: relative;
