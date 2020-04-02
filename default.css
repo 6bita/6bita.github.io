@@ -181,7 +181,7 @@ height: 92px;
 #header h2
 {
 position: absolute;
-font-size: 10px;
+font-size: 13px;
 font-weight: normal;
 color: #FCE2CA;
 top: 51px;
@@ -333,7 +333,7 @@ float: left;
 {
     position: relative;
     top: 4px;
-    font-size: 28px;
+    font-size: 24px;
     line-height: normal;
     color: #656551;
     letter-spacing: -1px;
