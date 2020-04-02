@@ -333,15 +333,16 @@ float: left;
 {
     position: relative;
     top: 4px;
-    font-size: 26px;
-    line-height: 25px;
+    font-size: 28px;
+    line-height: normal;
     color: #656551;
     letter-spacing: -1px;
     background: url(images/a22.gif) bottom repeat-x;
     padding: 0px 0px 10px 10px;
     margin-bottom: 20px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald';
     letter-spacing: normal;
+    font-weight: 600;
 }
 
 #primarycontent .content
