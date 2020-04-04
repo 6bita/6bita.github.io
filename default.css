@@ -196,7 +196,7 @@ color: #FCE2CA;
 {
 position: absolute;
 right: 30px;
-background: url('{{ site.url }}/images/el6ceibita.png') no-repeat; /* images/a10.jpg #EAEAE2 */
+background: #EAEAE2 url('images/el6ceibita.png') no-repeat; /* images/a10.jpg #EAEAE2 */
 width: 458px;
 height: 92;
 }
