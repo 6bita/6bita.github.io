@@ -6,6 +6,8 @@ date: 2020-04-08T18:08
 fecha: Abril 08, 2020
 image: /images/6Ceibita.png
 author: El 6Ceibita
+sitemap: false
+seo: false
 ---
 
 Como veras recien empece este sitio, va a ser una especie de blog personal pero, estoy calculando que se va a convertir en un blog de `Penarol` a la larga. No te pregunto si te queres hacer socio de `Penarol` porque imagino que no tendras plata pero la idea era de formar una Pen1a de `Penarol` en Europa del norte, se necesitan solamente 10 socios de la `Institucion` con la cuota al dia en el exterior a diferencia de los 20 socios que se necesitan para una pen1a en  `Uruguay`, esto lo explico en varios lados del sitio si despues lo navegas.
