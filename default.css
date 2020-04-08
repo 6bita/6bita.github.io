@@ -421,10 +421,11 @@ background-image: url('images/a38.gif');
 {
 position: relative;
 top: 30px;
+padding: 20px;
 clear: both;
-height: 66px;
+height: 200px;
 text-align: center;
-line-height: 66px;
+line-height: 200px;
 background-image: url('images/a50.gif');
 color: #A8A88D;
 margin-bottom: 20px;
@@ -433,6 +434,10 @@ font-size: .58em;
 line-height: 18px;
 }
 
+#footer .space
+{
+  padding: 12px;
+}
 #footer a
 {
 color: #8C8C73;

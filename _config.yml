@@ -23,8 +23,12 @@ email: ceibita@mail.ru
 description: "Plataforma de inicio de una peña del CA Peñarol en Europa del norte, teorias sociales y psicologicas en torno a la creacion y al funcionamiento de una organizacion"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bujia.tk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  6bita
+footer-links:
+  email: ceibita@mail.ru
+  github: 6bita
+  twitter: sasemita
+  youtube: Contenido Neutro
+  facebook: yase.mita
 
 # Build settings
 theme: minima

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Penarol no debio dejar irse a Canobbio"
+description: "Penarol corto el contrato a Canobbio un jugador joven que tiene mucho futuro y que era una de las cartas ofensivas de Penarol con su rapidez"
+date: 2020-04-08T03:08
+fecha: Abril 08, 2020
+image: /images/Agustin.png
+author: El 6Ceibita
+---
+
+### Penarol no debio dejar irse a Canobbio
+
+`Penarol` no debio de ninguna manera dejar de renovarle a `Canobbio`, era una de las cartas ofensivas mas importante que tenia Forlan. Este error paso inadvertido por todos, Forlan cometio su primer y hasta ahora unico error al frente del `CA Penarol`, Forlan se equivoca no dandole la confianza y el visto bueno a la prolongacion del su contrato y este, `Canobbio` le contesta enseguida marcando un gol para `Fenix` en la primera fecha.
+
+`Canobbio` era uno de los pocos jugadores de `Penarol` que se destacaron en las Copas Internacionales del anio pasado, tanto en `Libertadores` como en la `Sudamericana` marcando el unico tanto carbonero ante el `Fluminense`. Era el unico que con su rapidez complicaba nuestros adversarios y tanto en el `Campeonato Uruguayo` como y sobre todo en la `Copa` demostro ser un clase A.
+
+Si `Forlan` hubiera dado su visto bueno `Canobbio` seguiria siendo jugador de `Penarol` y desnivelante, aparte hay una responsabilidad ante el jugador que es una promesa para el futbol uruguayo y esta vuelta a `Fenix` le quita la posibilidad de jugar torneos internacionales para acrecentar su nivel y pulirse como jugador de futbol a nivel internacional. Hasta ahora el unico error, lo siento Forlan pero la cagaste, `Canobbio` es un ¡bruto jugador!
+
+Lo siento, lo sentia en el alma, te lo tenia que decir Diego, Suerte Agustin, no bajes los brazos el futbol da revancha, pesimo del `CA Penarol`, ¡dejo irse a uno de los mejores!?
+
+<br>
+
+<img src="{{ site.url }}/images/Agustin.png" width="480px">
