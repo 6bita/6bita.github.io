@@ -9,8 +9,6 @@ author: El 6Ceibita
 is_page: true
 ---
 
-### Nos basamos en los quiquenios para lograr las decadas
-
 Creo que es bastante obvio y facil de darse cuenta que nunca se va a dar algo asi como obtener una decada de triunfos en el `Campeonato Uruguayo` por cualquier equipo porque de darse algo asi creo que el futbol en si moriria.
 
 Si `Penarol` ganara dos quiquenios seguidos seria una decada, traducido seria que `Nacional` hiciera 10 anios que no ganaba el `Uruguayo`, habria una guerra y el `Uruguay` la estaria perdiendo y Penarol andaria regalado en lo `Internacional` parado en dos cantos. Por aquello que si deja de existir uno de los dos el otro de alguna manera igual moriria. Pero porque `Penarol` logro uno no hace tanto.
