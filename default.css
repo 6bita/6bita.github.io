@@ -156,7 +156,7 @@ z-index: 2;
 #header
 {
 position: absolute;
-background: #FF7800 url('{{ site.url }}/images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
+background: #FF7800 url('/{{ site.url }}/images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
 left: 30px;
 width: 680px; /* 202px 303px */
 height: 92px;
@@ -195,8 +195,9 @@ color: #FCE2CA;
 #splash
 {
 position: absolute;
+top: 30;
 right: 30px;
-background: #EAEAE2 url('images/el6ceibita.png') no-repeat; /* images/a10.jpg #EAEAE2 */
+background: #EAEAE2 url('/images/el6ceibita.png') no-repeat; /* images/a10.jpg #EAEAE2 */
 width: 458px;
 height: 92;
 }

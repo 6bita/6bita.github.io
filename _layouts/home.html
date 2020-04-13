@@ -22,6 +22,7 @@
         {% include menu.html %}
 
         <div id="primarycontent">
+          <div id="search-searchbar"></div>
 
           <div class="post">
 
@@ -99,7 +100,9 @@
 
           {% endfor %}
 
-          <a href="{{ site.url }}/manifesto.html">
+          {% include algolia.html %}
+
+          <a href="{{ site.url }}/lasdecadas.html">
             <img src="{{ site.url }}/images/el6ceibita.png" class="responsive-img">
           </a>
 

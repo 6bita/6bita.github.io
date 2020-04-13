@@ -30,6 +30,11 @@ footer-links:
   youtube: channel/UCgRdFw-AjJqU6Km9RIQWYNw
   facebook: yase.mita
 
+algolia:
+   application_id: TOY258TWGE # YOUR_APPLICATION_ID
+   index_name: jekyll-sci6bita # YOUR_INDEX_NAME
+   search_only_api_key: f21dff7b73910ebebc640512100cad35 # YOUR_SEARCH_ONLY_API_KEY
+
 # Build settings
 theme: minima
 plugins:
