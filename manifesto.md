@@ -1,12 +1,11 @@
 ---
 layout: page
-title: ¡Contacto Bujía! 
+title: Para levantarse rápido mejor estar protejido por una organizacion
 author: El 6Ceibita
 date: 1 Abril, 2020
 image: /images/rect2651.png
 ---
 
-### Para levantarse rápido mejor estar protejido por una organizacion
 Es de interes comun permanecer a salvo y protegido para esto es saludable estar organizado en una organizacion global que proteja de manera unica los intereses individuales de sus miembros.
 Como se aconseja no tratar de reinventar la rueda en cada momento ```el 6Ceibita``` pretende crear una pen1a en el exterior del `CA Penarol`, aprovechando la posibilidad que el `CA Penarol` brinda a los penarolenses en el exterior.
 
