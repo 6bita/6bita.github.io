@@ -52,13 +52,15 @@
     					<div class="date">{{ page.fecha }}</div>
     				</div>
             <br>
-    				<div class="header">
-    					<h3 style="letter-spacing: 0.00;font-family: 'Oswald';">{{ post.title }}</h3>
+{{ content }}
+            <div class="header">
+              <h3 style="letter-spacing: 0.00;font-family: 'Oswald';">{{ post.title }}</h3>
 
-    				</div>
+            </div>
+
     				<div class="content">
     					<img src="{{ page.image }}" class="picB floatleft" alt="" />
-    					{{ content }}
+    					{{ page.description }}
     				</div>
             <div class="footer">
               <ul>
@@ -97,16 +99,16 @@
     			</div>
 
           <div class="content">
-            <div class="anuncios-gratis">
+            <div class="anuncios-gratis" style="color: #fff;background: #000;font-weight: 900;">
               <p>¡Su anuncio puede publicarse aqui gratis!</p>
               <p>contacto: ceibita@mail.ru</p>
             </div>
           </div>
 
           <div class="content">
-            <div class="anuncios-gratis dominguez-propaganda">
-              <p style="color: red;">José Carlos Domínguez es una exelente persona e inspira confianza</p>
-              <p style="color: red;">¡Ojalá se postule!</p>
+            <div class="anuncios-gratis dominguez-propaganda" style="color: #fff;background: red;font-weight: 900;">
+              <p style="color: #fff;">José Carlos Domínguez es una exelente persona e inspira confianza</p>
+              <p style="color: #fff;">¡Ojalá se postule!</p>
             </div>
           </div>
 
