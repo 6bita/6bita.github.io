@@ -1,17 +1,23 @@
 ---
 layout: post
-title: "Que la Barra Amsterdam mejor se llame los ninjas"
-description: "La barra de Penarol se autodenomina Barra Amsterdam seŕía mejor que se llamaran 'los ninjas', el 6Ceibita explica porqué"
-date: 2020-04-02T06:33
-fecha: Abril 02, 2020
+title: "¡Rentistas va primero!"
+description: "Todos quieren dar un pronostico sobre cuando se reanudara la actividad futbolistica este anio"
+date: 2020-04-17T19:38
+fecha: Abril 17, 2020
 image: /images/Sci6Bitaeicon.png
 author: El 6Ceibita
 ---
 
-### Que la Barra Amsterdam mejor se llame los ninjas
+### ¡Rentistas va primero!
 
-La Barra de Penarol se autodenomina `Barra Amsterdam` pero seŕía mejor que se autodenominaran `los ninjas`, esto técnicamente conviene y por eso es de interés público. Se puede discutir abiertamente pero solo el hecho de originalidad del nombre `los ninjas` ya hasta el humor lo marca como conveniente y además hace una diferenciación interesante y notoria que con simplemente `barra A.`
+`Ronchi` insinuo, cundo recomienza, Ja, ja, ja... `6Cerditt` decia yas ta, ja, ja, ja... `Hanania` ni idea... tir`o, me acuerdo ahora, la reanudacion era para mediados o fines de abril (sic) ja, ja, ja... ja, ja, ja...
 
-El nombre `barra A` esta expuesto a la asociación con el nombre de barras bravas argentinas, muertes y todo lo negro que lo pueden pintar las controladores de la opinion publica de hoy: la oligarquia imperante de la peor época mercantilista de nuestros dias, los que quieren mantener la hegemonía de ellos cuando son una minoría con aspiraciones egoisticas (y saben internamente se enfrentan a un gran colectivo en donde reina la igualdad ¡#X@! :)
+Yo creo que habria que empezar a saborear la idea que ...Rentistasss!!! va primero, seniores y senioras. Si terminara asi: El Campeonato Uruguayo, Rentistas seria el campeon y ni Penarol ni Nacional irian a la Copa Libertadores. Hanania se desmayaria, queria en abril y se suspendio por este anio.
 
-Por el contrario `los ninjas` surge como un nombre fresco e silvestre e de vanguardia que unificaría a la hinchada de la Amsterdam e incluiría por supuesto a `La Revista` y sus sombrillas, `los ninjas` rápidamente crecería exponensialmente y no tanto en cantidad sino en calidad. Esto asimismo aumentaría el grado de profesionalismo de sus miembros así como el modelo de `Squad Penarol` ágil y dinámico. Un ninja es un profesional, el nombre `los ninjas`, sería un catalizador a recrutar nuevos miembros altamente calificados y de forma rápida mejorar y aumentar ADN de la Barra A... Esto es así! ¡Mums!
+Y mira si sin siquiera pijiar simplemente por una inerte de inercia los clubes cn desarrollo, votan suspender el futbol por este anio. ¿O no son ellos los que deciden el futbol yoruguiya?
+
+En Europa se baraja que los Campeonatos de Europa podrian terminar y no jugarse mas por este semestre, empezaria en agosto la temporada 20/21 y esta temporada quedaria como va la tabla de posiciones y el que va primero ganaria. Lo escuche en la BBC Europe News donde calculaban la perdida economica de la Premiere League este anio.
+
+La Libertadores ya esta suspendida, segun los argentinos, basandose en que la Champions y la Europa League estan en la cuerda floja. El Bayer Mũnich es el unico que empezo a entrenar y yo creo que el Barcelona ya piensa en la proxima temporada basandose en su tecnico.
+
+Y Rentistas va primero solo en Uruguay ¿Como van a votar los cuadros cn desarrollo? Y los periodistas uruguayos haciendo pronosticos para abril y mayo proximo quieren garpar y los bolasos que dicen en los programas deportivos, si andaran en la cuerda floja, el virus nos trajo una alarma importante, creo que es verdad que el mundo debe bajar un par de cambios!!!
