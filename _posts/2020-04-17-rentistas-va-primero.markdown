@@ -11,11 +11,11 @@ author: El 6Ceibita
 
 ### ¡Rentistas va primero!
 
-`Ronchi` insinuo, cundo recomienza, Ja, ja, ja... `6Cerditt` decia yas ta, ja, ja, ja... `Hanania` ni idea... tiro, me acuerdo ahora, la reanudacion era para mediados o fines de abril (sic) ja, ja, ja... ja, ja, ja...
+`Ronchi` de Sport 890, cundo recomienza?, Ja, ja, ja... `Moar` decia yas ta, ja, ja, ja... `Hanania` de futbol a lo PENAROL... tiro, me acuerdo ahora, la reanudacion era para mediados o fines de abril (sic) ja, ja, ja... ja, ja, ja...
 
 Yo creo que habria que empezar a saborear la idea que ...`Rentistasss`!!! va primero, seniores y senioras. Si terminara asi: El `Campeonato Uruguayo`, `Rentistas` seria el campeon y ni `Penarol` ni `Nacional` irian a la `Copa Libertadores`. `Hanania` se desmayaria, queria en abril y se suspendio por este anio.
 
-Y mira si sin siquiera pijiar simplemente por una inerte de inercia los clubes cn desarrollo, votan suspender el futbol por este anio. ¿O no son ellos los que deciden el futbol yoruguiya?
+Y mira si los clubes cn desarrollo, votan suspender el futbol por este anio. ¿O no son ellos los que deciden el futbol yoruguiya?
 
 En `Europa` se baraja que los campeonatos de `Europa` podrian terminar y no jugarse mas por este semestre, empezaria en agosto la temporada 20/21 y esta temporada quedaria como va la tabla de posiciones y el que va primero ganaria. Lo escuche en la `BBC Europe News` donde calculaban la perdida economica de la `Premiere League` este anio.
 

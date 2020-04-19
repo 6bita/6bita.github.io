@@ -10,7 +10,7 @@ author: El 6Ceibita
 
 ### ¡Rentistas va primero!
 
-`Ronchi` insinuo, cundo recomienza, Ja, ja, ja... `6Cerditt` decia yas ta, ja, ja, ja... `Hanania` ni idea... tir`o, me acuerdo ahora, la reanudacion era para mediados o fines de abril (sic) ja, ja, ja... ja, ja, ja...
+`Ronchi` insinuo, cundo recomienza, Ja, ja, ja... `6Cerditt` decia yas ta, ja, ja, ja... `Hanania` ni idea... tiro, me acuerdo ahora, la reanudacion era para mediados o fines de abril (sic) ja, ja, ja... ja, ja, ja...
 
 Yo creo que habria que empezar a saborear la idea que ...Rentistasss!!! va primero, seniores y senioras. Si terminara asi: El Campeonato Uruguayo, Rentistas seria el campeon y ni Penarol ni Nacional irian a la Copa Libertadores. Hanania se desmayaria, queria en abril y se suspendio por este anio.
 
