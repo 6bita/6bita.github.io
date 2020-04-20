@@ -2,6 +2,8 @@
 layout: post
 title: "Penarol no debio dejar irse a Canobbio"
 description: "Penarol corto el contrato a Canobbio un jugador joven que tiene mucho futuro y que era una de las cartas ofensivas de Penarol con su rapidez"
+name: 2020-04-08-Agustin.markdown
+entrada: "2"
 date: 2020-04-08T03:08
 fecha: Abril 08, 2020
 image: /images/Agustin.png
@@ -9,6 +11,8 @@ author: El 6Ceibita
 ---
 
 ### Penarol no debio dejar irse a Canobbio
+
+<img src="{{ site.url }}/images/Agustin.png" width="480px">
 
 `Penarol` no debio de ninguna manera dejar de renovarle a `Canobbio`, era una de las cartas ofensivas mas importante que tenia Forlan. Este error paso inadvertido por todos, Forlan cometio su primer y hasta ahora unico error al frente del `CA Penarol`, Forlan se equivoca no dandole la confianza y el visto bueno a la prolongacion del su contrato y este, `Canobbio` le contesta enseguida marcando un gol para `Fenix` en la primera fecha.
 
@@ -20,4 +24,48 @@ Lo siento, lo sentia en el alma, te lo tenia que decir Diego, Suerte Agustin, no
 
 <br>
 
-<img src="{{ site.url }}/images/Agustin.png" width="480px">
+### Tambien te puede interesar
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "1" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}
+
+<br>
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "3" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}

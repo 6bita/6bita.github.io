@@ -3,6 +3,7 @@ layout: post
 title: "¡Rentistas va primero!"
 description: "Todos quieren dar un pronostico sobre cuando se reanudara la actividad futbolistica este anio"
 name: 2020-04-17-rentistas-va-primero.md
+entrada: "3"
 date: 2020-04-17T19:38
 fecha: Abril 17, 2020
 image: /images/Sci6Bitaeicon.png
@@ -22,3 +23,49 @@ En `Europa` se baraja que los campeonatos de `Europa` podrian terminar y no juga
 La `Libertadores` ya esta suspendida, segun los argentinos, basandose en que la `Champions` y la `Europa League` estan en la cuerda floja. El `Bayer Mũnich` es el unico que empezo a entrenar y yo creo que el `Barcelona` ya piensa en la proxima temporada basandose en su tecnico.
 
 Y `Rentistas` va primero solo en `Uruguay` ¿Como van a votar los cuadros cn desarrollo? Y los periodistas uruguayos haciendo pronosticos para abril y mayo proximo quieren garpar y los bolasos que dicen en los programas deportivos, si andaran en la cuerda floja, el virus nos trajo una alarma importante, creo que es verdad que el mundo debe bajar un par de cambios!!!
+
+### Tambien te puede interesar
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "1" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}
+
+<br>
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "2" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}
