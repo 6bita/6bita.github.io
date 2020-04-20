@@ -156,9 +156,9 @@ z-index: 2;
 #header
 {
 position: absolute;
-background: #FF7800 url('/{{ site.url }}/images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x */
+background: #31c741 url('/{{ site.url }}/images/Sci6Bitaicon.png') no-repeat; /* images/a8.gif repeat-x #FF7800 */
 left: 30px;
-width: 680px; /* 202px 303px */
+width: 686px; /* 202px 303px */
 height: 92px;
 color: #fff;
 margin-left: 0px;

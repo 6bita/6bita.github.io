@@ -29,6 +29,7 @@ footer-links:
   twitter: sasemita
   youtube: channel/UCgRdFw-AjJqU6Km9RIQWYNw
   facebook: yase.mita
+  rss: /feed.xml
 
 algolia:
    application_id: TOY258TWGE # YOUR_APPLICATION_ID
