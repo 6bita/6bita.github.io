@@ -18,7 +18,7 @@ El nombre `barra A` esta expuesto a la asociación con el nombre de barras brava
 
 Por el contrario `los ninjas` surge como un nombre fresco e silvestre e de vanguardia que unificaría a la hinchada de la Amsterdam e incluiría a La Revista y sus sombrillas, `los ninjas` rápidamente crecería exponensialmente y más en calidad que en cantidad. Esto asimismo aumentaría el grado de profesionalismo de sus miembros así como el modelo de squad `Penarol` ágil y dinámico, el nombre `los ninjas`, sería un catalizador a recrutar nuevos miembros altamente calificados y de forma rápida mejorar y aumentar. Esto es así!
 
-### Tambien te puede interesar
+### tambien ver
 
 {% for post in site.posts %}
 

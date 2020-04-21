@@ -24,7 +24,7 @@ Lo siento, lo sentia en el alma, te lo tenia que decir Diego, Suerte Agustin, no
 
 <br>
 
-### Tambien te puede interesar
+### tambien ver
 
 {% for post in site.posts %}
 

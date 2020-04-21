@@ -24,7 +24,7 @@ La `Libertadores` ya esta suspendida, segun los argentinos, basandose en que la 
 
 Y `Rentistas` va primero solo en `Uruguay` ¿Como van a votar los cuadros cn desarrollo? Y los periodistas uruguayos haciendo pronosticos para abril y mayo proximo quieren garpar y los bolasos que dicen en los programas deportivos, si andaran en la cuerda floja, el virus nos trajo una alarma importante, creo que es verdad que el mundo debe bajar un par de cambios!!!
 
-### Tambien te puede interesar
+### tambien ver
 
 {% for post in site.posts %}
 
@@ -48,6 +48,7 @@ Y `Rentistas` va primero solo en `Uruguay` ¿Como van a votar los cuadros cn des
 {% endfor %}
 
 <br>
+
 
 {% for post in site.posts %}
 
