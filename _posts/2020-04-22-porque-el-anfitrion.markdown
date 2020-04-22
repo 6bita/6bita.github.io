@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Porque el anfitrion termina muerto por su huesped (el virus)?"
+title: "¿Porque el anfitrion termina muerto por su huesped (el virus)"
 description: "Teoria sobre la muerte del anfitrion a manos del virus CORONA-19"
 name: 2020-04-21-porque-el-anfitrion.md
 entrada: "4"
@@ -10,7 +10,7 @@ image: /images/corona19.png
 author: El 6Ceibita
 ---
 
-### ¿Porque el anfitrion termina muerto por su huesped (el virus)?
+### ¿Porque el anfitrion termina muerto por su huesped (el virus)
 
 <img src="{{ site.url }}/images/corona19.png" width="480px">
 
