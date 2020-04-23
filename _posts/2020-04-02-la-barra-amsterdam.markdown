@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Barra Amsterdam pasará a llamarse Los Ninjas, esto conviene"
+title: "La Barra Amsterdam deberia de llamarse los ninjas porque conviene"
 description: "A la barra Amsterdam le convendria llamarse los ninjas, el ceibita explica porque"
 name: 2020-04-02-la-barra-amsterdam.markdown
 entrada: "1"
@@ -10,7 +10,7 @@ image: /images/Sci6Bitaeicon.png
 author: El 6Ceibita
 ---
 
-### La `Barra Amsterdam` pasará a llamarse `Los Ninjas`, esto conviene
+### La `Barra Amsterdam` deberia de llamarse `los ninjas` porque conviene
 
 La barra de `Penarol` se autodenominaba `Barra Amsterdam` ahora pasan simplemente a ser `los ninjas`, esto conviene y por eso es de interés público. Se puede discutir abiertamente pero solo el hecho de originalidad del nombre `los ninjas` ya hasta el humor lo marca como conveniente y además hace una diferenciación interesante y notoria que con simplemente `barra A.`
 
