@@ -10,6 +10,8 @@ fecha: 19 Julio, 2019
 
 <img src="{{ site.url }}/images/rect836.png" width="480px">
 
-<iframe class="embed-responsive embed-responsive-item" src="https://www.youtube.com/embed/ZlLJeMCqqFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZlLJeMCqqFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
