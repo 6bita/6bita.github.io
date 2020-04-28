@@ -4,8 +4,8 @@ title: "¿Porque el anfitrion termina muerto por su huesped (el virus)"
 description: "Teoria sobre la muerte del anfitrion a manos del virus CORONA-19"
 name: 2020-04-21-porque-el-anfitrion.md
 entrada: "4"
-date: 2020-04-21T14:45
-fecha: Abril 21, 2020
+date: 2020-04-22T14:45
+fecha: Abril 22, 2020
 image: /images/corona19.png
 author: El 6Ceibita
 ---

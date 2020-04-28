@@ -2,7 +2,8 @@
 layout: page
 title: Para levantarse rápido mejor estar protejido por una organizacion
 author: El 6Ceibita
-date: 1 Abril, 2020
+date: 2020-04-01T00:00
+fecha: Abril 1, 2020
 image: /images/rect2651.png
 ---
 
