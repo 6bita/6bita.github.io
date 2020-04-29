@@ -9,22 +9,37 @@ author: El 6Ceibita
 is_page: true
 ---
 
-Creo que es bastante obvio y facil de darse cuenta que nunca se va a dar algo asi como obtener una decada de triunfos en el `Campeonato Uruguayo` por cualquier equipo porque de darse algo asi creo que el futbol en si moriria.
+### Ganar o perder es la presion de Hollywood
 
-Si `Penarol` ganara dos quiquenios seguidos seria una decada, traducido seria que `Nacional` hiciera 10 anios que no ganaba el `Uruguayo`, habria una guerra y el `Uruguay` la estaria perdiendo y `Penarol` andaria regalado en lo `Internacional` parado en dos cantos. Por aquello que si deja de existir uno de los dos el otro de alguna manera igual moriria. Pero, ¿porque `Penarol` logro uno no hace tanto?
+La institucion `CA Penarol` en estos dias se ve desbordada por la presion de sacar
+buenos resultados a nivel internacional. Esto es `Penarol` suele verse en los
+medios de prensa, `Penarol` esta obligado a ganar en todas partes. Sin embargo
+yo no veo la misma presion sobre los hombros del tradicional rival y sus
+actuaciones a nivel de `Copa Libertadores` han sido deficitarios tambien, sin
+embargo no veo la misma presion.
 
-### `Penarol` es hoy mas grande a nivel `Internacional`
-`Nacional` en si representa el `Uruguay`, con ese nombre y los colores de `Artigas`. `Penarol` debe de reconocer que para competir contra lo `Nacional` debe ser mas profesional que `Nacional` y asi mantenerse como hoy mas grande a nivel `Internacional` (Estadisticas extrapoladas del sitio <a href="https://sofascore.com">sofascore.com</a>)...
+Como voy a constatar en el `ranking `de los clubes sudamericanos, hay mas de 30
+clubes en `Sudamerica` que son mas grandes que `Penarol` y algo asi como 35 mas
+grandes que `Nacional`. Somos un pueblo pequeño y el futbol se ha popularizado
+en todos los países del mundo. Todo se volvio mas parejo y hay 30 clubes mas
+poderosos que `Penarol` que de la misma manera creen que deben ganar la
+`Libertadores` todos los años... y son 30 cuadros mas poderosos que `Penarol`.
 
-Un `ninja` es un soldado profesional. Es necesario que todo `penarolense` deba enfrentar la realidad de hoy. El profesionalismo hiriente debe imperar en todas las falanjes `carboneras` (lease `pen1as`) para que simplemente no suceda lo `Nacional` no existe mas y asi nosotros tambien nos extinguimos por aquello de que uno no puede vivir sin el otro. ¡Esto no conviene!
+El `quinquenio` esta muy bien pero no podemos perder la cabeza como dice el titulo
+y desnucandonos por apuntar mas alto de lo que podemos y pueden todos los
+cuadros en la igualdad que impera en estos días. La presión nos va a jugar una
+mala pasada y va a ser contraproducente. Caeríamos en una situación en la cual
+la presión nos haría sentir fracasados cuando clasificamos todos los años para
+participar en `Libertadores` y `Sudamericana`. Lo que es lo mismo que participar
+decorosamente. Porque andar amargado todo el año porque no ganamos la `Copa` y
+más aún, ¿cuántos nunca la ganaron de esos 30 clubes más poderosos que tenemos 
+por encima en Sudamérica?
 
-### El SQUAD es una UNION de infinitas UNIDADES
-<strong>El SQUAD `PENAROL`</strong> debe ser <strong>UNA</strong> union de infinitas unidades llamadas `PEN1AS` con capacidad para reaccionar a nivel nacional o internacional, debido a las relaciones internacionales de `pen1as` regionales o internacionales.
-
-¡Un `ninja`, carbonero!. Un `ninja`, es un soldado profesional de elite que puede desactivar la extincion del `Uruguay` y del `Club Nacional de futbol`. Entonces explotas y te sacrificas por tu unidad, y por los demas para salvar tu patria de la desvastacion.
-
-`Penarol` debe en todo momento permanecer conciente que sin `Uruguay`, sin `Nacional`, estamos metidos en una guerra sin fin que nos va a extinguir a la larga. Por eso en todo momento debemos permanecer concientes que debemos proteger a `Nacional`, asegurando la existencia del `Uruguay`. Los `ninjas` deben mantener el `Estado de Igualdad` por esto: ¡porque caer de inmaduros y perseguir la decada, seria ödesdigert y no conviene! Un `ninja` debe respetar al tradicional rival y asegurarse que somos un poco mas grandes internacionalmente hablando para preservar la integridad propia y extraña, avisandoles: "¡Van mal!"
-
-¡Bom vaiaje!
-
->> El 6Ceibita¡¤! >>
+Que los quinquenios sean una base de nuestra historia pero convengamos que el
+objetivo en el deporte moderno tiene que ser participar decorosamente y con la
+conviccion de que si nos ponemos presiones de todo tipo jamás vamos a lograr
+cosas importantes. Humildad, sacrificio si pero tambien estar con los pies en la
+tierra y ser conscientes en todo momento que Uruguay es el país más chico de
+toda sudamérica y Nacional por su nombre y los colores artiguistas viene antes
+que nosotros. Saquemosnos la presión de encima, que quizas empecemos de esa
+manera a jugar más vistoso.
