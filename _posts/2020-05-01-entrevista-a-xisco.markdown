@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Entrevista a Xisco 30/04/2020 (daSilveira) Parte 1 (Dark Matter)"
-description: "Jorge daSilveira lo pasea por España y lo ayuda a conocer a Xisco un poco más. Comienzo de la series de entrevistas..."
+title: "Jorge da Silveira entrevista a Xisco 30/04/2020 parte 1"
+description: "Jorge daSilveira lo pasea por España y lo ayuda a conocer a Xisco un poco más. Primera parte de la entrevista a Xisco Jiménez y comienzo de la series de entrevistas..."
 name: 2020-05-01-entrevista-a-xisco.markdown
-entrada: "4"
+entrada: "5"
 date: 2020-05-01T14:30
 fecha: Mayo 01, 2020
 image: /images/Sci6Bitaeicon.png
 author: el ceibita
 ---
 
-### Entrevista a Xisco 30/04/2020 (daSilveira) Parte 1 (Dark Matter)
+### Jorge da Silveira entrevista a Xisco 30/04/2020 parte 1
 
 <img src="{{ site.url }}/images/xisco.png" width="480px">
 
@@ -183,3 +183,26 @@ todo en un fútbol como el uruguayo con tanta historia, con tantos jugadores
 importantísimos que van saliendo año tras año de Uruguay, a pesar de ser un país
 en comparación con otros, pues mucho más pequeño y... pero bueno obviamente que
 hay diferencias pero no son diferencias enormes ni abismales.
+
+<br>
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "6" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}
