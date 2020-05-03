@@ -9,6 +9,7 @@ date: 2020-05-03T20:00
 fecha: Mayo 03, 2020
 image: /images/Sci6Bitaeicon.png
 author: el ceibita
+lang: 'es-UY'
 ---
 
 ### Penarol 2020: Johnatan Urretaviscaya - Hay una reunion pendiente con Monterrey por mi futuro
