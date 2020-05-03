@@ -228,3 +228,26 @@ paseo juntos.
 {% endif %}
 
 {% endfor %}
+
+<br>
+
+{% for post in site.posts %}
+
+
+{% if post.entrada == "7" %}
+
+
+<div class="content">
+  <img src="{{ post.image }}" class="picB floatleft" alt="" />
+  {{ post.description }}
+</div>
+<div class="footer">
+  <ul>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="comments"><a href="{{ site.url }}/{{ post.url }}">Comentarios</a></li></center></button>
+    <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><li class="readmore"><a href="{{ site.url }}/{{ post.url }}">Mostrar Mas</a></li></center></button>
+  </ul>
+</div>
+
+{% endif %}
+
+{% endfor %}
