@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jorge da Silveira entrevista a Xisco 30/04/2020 parte 2"
+title: "Penarol 2020: Xisco - Estoy muy a gusto en Montevideo - 30/04/2020"
 description: "Jorge daSilveira lo pasea por España y lo ayuda a conocer a Xisco un poco más. Segunda parte de la entrevista a Xisco Jiménez y comienzo de la serie de entrevistas..."
 name: 2020-05-01-entrevista-a-xisco.markdown
 entrada: "6"
@@ -10,7 +10,7 @@ image: /images/Sci6Bitaeicon.png
 author: el ceibita
 ---
 
-### Jorge da Silveira entrevista a Xisco 30/04/2020 parte 2
+### Penarol 2020: Xisco - Estoy muy a gusto en Montevideo - 30/04/2020
 
 <img src="{{ site.url }}/images/xisco.png" width="480px">
 
