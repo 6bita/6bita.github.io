@@ -7,7 +7,8 @@ entrada: "6"
 date: 2020-05-02T21:30
 fecha: Mayo 02, 2020
 image: /images/Sci6Bitaeicon.png
-author: el ceibita
+author: elceibita
+lang: 'es-UY'
 ---
 
 ### Penarol 2020: Xisco - Estoy muy a gusto en Montevideo - 30/04/2020

@@ -7,7 +7,8 @@ entrada: "1"
 date: 2020-04-02-T00:00
 fecha: 02 Abril, 2020
 image: /images/Sci6Bitaeicon.png
-author: El 6Ceibita
+author: el6ceibita
+lang: 'es-UY'
 ---
 
 ### La `Barra Amsterdam` deberia de llamarse `los ninjas` porque conviene

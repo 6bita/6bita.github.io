@@ -7,7 +7,8 @@ entrada: "2"
 date: 2020-04-08T03:08
 fecha: Abril 08, 2020
 image: /images/Agustin.png
-author: El 6Ceibita
+author: el6ceibita
+lang: 'es-UY'
 ---
 
 ### Penarol no debio dejar irse a Canobbio

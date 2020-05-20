@@ -7,7 +7,8 @@ entrada: "3"
 date: 2020-04-17T19:38
 fecha: Abril 17, 2020
 image: /images/Sci6Bitaeicon.png
-author: El 6Ceibita
+author: el6ceibita
+lang: 'es-UY'
 ---
 
 ### ¡Rentistas va primero!

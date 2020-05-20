@@ -7,7 +7,8 @@ entrada: "4"
 date: 2020-04-22T14:45
 fecha: Abril 22, 2020
 image: /images/corona19.png
-author: El 6Ceibita
+author: el6ceibita
+lang: 'es-UY'
 ---
 
 ### ¿Porque el anfitrion termina muerto por su huesped (el virus)

@@ -7,7 +7,8 @@ entrada: "5"
 date: 2020-05-01T14:30
 fecha: Mayo 01, 2020
 image: /images/Sci6Bitaeicon.png
-author: el ceibita
+author: elceibita
+lang: 'es-UY'
 ---
 
 ### Jorge da Silveira entrevista a Xisco 30/04/2020 parte 1
