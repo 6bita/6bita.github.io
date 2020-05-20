@@ -16,7 +16,7 @@ lang: 'es-UY'
 
 ### Los iracundos de radio Sport 890 en esta cuarentena
 
-<!--<img src="{{ site.url }}/images/sport890.jpg" width="480px">-->
+<img src="{{ site.url }}/images/sport890.jpg" width="480px">
 
 
 En radio Sport 890 hemos podido ver que los animos se van fastidiando a medida
