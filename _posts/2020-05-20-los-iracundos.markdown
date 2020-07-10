@@ -10,13 +10,14 @@ entrada: "8"
 date: 2020-05-20T20:00
 fecha: Mayo 20, 2020
 image: /images/Sci6Bitaeicon.png
+image02: /images/sport890.jpg
 author: elceibita
 lang: 'es-UY'
 ---
 
 ### Los iracundos de radio Sport 890 en esta cuarentena
 
-<img src="{{ site.url }}/images/sport890.jpg" width="480px">
+<img src="{{ page.image02 }}" width="480px">
 
 
 En radio Sport 890 hemos podido ver que los animos se van fastidiando a medida
