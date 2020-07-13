@@ -24,7 +24,8 @@ Desde aquí ...
 
 Si te ponen la responsabilidad en el espacii0, podés dedicarte sin que te
 moleste nadie, aunque después aparecen guachos que te sacan la lenguita. Y vos
-te preguntás, estos guachos ya llegaron a evolución? La simplificastes?
+te preguntás, estos guachos ya llegaron a evolución? Se los entregaría a un
+gaucho de agua hirviendo. La simplificastes?
 
 Si la Busty Dusty me presenta a su hija, habríamos llegado a evolución pero y?
 la estoy esperando ...
