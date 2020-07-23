@@ -41,13 +41,17 @@ Bueno, por hoy nada más.
 
 <br>
 
+### Ver también
+
+<br>
+
 {% for post in site.posts %}
 
 
-{% if post.entrada == "11" %}
+{% if post.entrada == "12" %}
 
 
-<div class="content">
+<div class="content" style="margin-top: 35px">
   <img src="{{ post.image }}" class="picB floatleft" alt="" />
   {{ post.description }}
 </div>
