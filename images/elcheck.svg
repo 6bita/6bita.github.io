@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="elcheck.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1983"
+   version="1.1"
+   viewBox="0 0 948.40784 160.69507"
+   height="160.69507mm"
+   width="948.40784mm">
+  <defs
+     id="defs1977" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-x="100"
+     inkscape:window-height="1016"
+     inkscape:window-width="1531"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-1834.9266"
+     inkscape:cx="2576.9066"
+     inkscape:zoom="0.0875"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(570.96581,-110.90842)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lager 1">
+    <rect
+       style="opacity:0.873295;fill:#552200;stroke:#2b1100;stroke-width:4.76999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1960"
+       width="943.63782"
+       height="155.92508"
+       x="-568.58081"
+       y="113.29341" />
+    <text
+       xml:space="preserve"
+       style="font-size:139.202px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:Caladea;fill:#e6e6e6;stroke:#333333;stroke-width:1.61839;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-466.80051"
+       y="230.59174"
+       id="text1964"
+       transform="scale(0.98910873,1.0110112)"><tspan
+         sodipodi:role="line"
+         id="tspan1962"
+         x="-466.80051"
+         y="230.59174"
+         style="fill:#e6e6e6;stroke:#333333;stroke-width:1.61839;stroke-miterlimit:4;stroke-dasharray:none">* El Check *</tspan></text>
+  </g>
+</svg>

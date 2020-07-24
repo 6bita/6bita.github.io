@@ -25,91 +25,57 @@
           <p class="rss-subscribe">subscribirse <a href="{{ "/feed.xml" | relative_url }}">via RSS {% include rss-icon.html %}</a></p>
           <div id="search-searchbar"></div>
 
-          <div class="post">
+          <br>
 
-    				<div class="header">
-    					<div class="date">Julio 19, 2019</div>
-    				</div>
-            <br>
-    				<div class="header">
-    					<h3 style="letter-spacing: normal;font-family: 'Oswald';">Gurbaani TV</h3>
+          <h3>Dedicado</h3>
 
-    				</div>
-    				<div class="content">
-    					<img src="images/rect836.png" class="picB floatleft" alt="" />
-    					<p><strong>Gurbaani TV</strong>: emite desde el templo de Dios en directo</p>
-    				</div>
-            <!--<div class="footer">
-              <!--<style>
-                .espacio {
-                  heigh: 20px;
-                }
-              </style>-->
-              <div class="espacio"></div>
-              <div class="footer">
-                <ul>
-                  <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="comments"><a href="{{ site.url }}/gurbaani-tv.html">Comentarios</a></li></center></buttom>
-                  <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="readmore"><a href="{{ site.url }}/gurbaani-tv.html">Mostrar Mas</a></li></center><buttom>
-                </ul>
-              </div>
-              <!--<ul>
-                <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="comments"><a href="{{ site.url }}/gurbaani-tv.html">Comentarios</a></li></center></buttom>
-                <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="readmore"><a href="{{ site.url }}/gurbaani-tv.html">Mostrar Mas</a></li></center><buttom>
-              </ul>-->
-            <!--</div>-->
-    			</div>
+          <div class="content" style="margin-top: 35px">
+            <img src="images/rect836.png" class="picB floatleft" alt="" />
+            <strong>Gurbaani TV</strong>: emite desde el templo de Dios en directo</p>
+          </div>
+          <div class="footer">
+            <tr>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="comments"><a href="{{ site.url }}/gurbaani-tv.html">Comentarios</a></td></center></button>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="readmore"><a href="{{ site.url }}/gurbaani-tv.html">Mostrar Mas</a></td></center></button>
+            </tr>
+          </div>
 
-          <div class="post">
+          <br>
 
-    				<div class="header">
-    					<div class="date">Abril 4, 2020</div>
-    				</div>
-            <br>
-    				<div class="header">
-    					<h3 style="letter-spacing: normal;font-family: 'Oswald';">Rusia Today</h3>
+          <div class="content" style="margin-top: 35px">
+            <img src="images/g877.png" class="picB floatleft" alt="" />
+            <strong>RT</strong> Canal de actualidad mundial con centro en la realidad latinoamericana
+          </div>
+          <div class="footer">
+            <tr>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="comments"><a href="{{ site.url }}/rt.html">Comentarios</a></td></center></button>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="readmore"><a href="{{ site.url }}/rt.html">Mostrar Mas</a></td></center></button>
+            </tr>
+          </div>
 
-    				</div>
-    				<div class="content">
-    					<img src="images/g877.png" class="picB floatleft" alt="" />
-    					<p><strong>RT</strong> Canal de actualidad mundial con centro en la realidad latinoamericana</p>
-    				</div>
-            <div class="footer">
-              <ul>
-                <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="comments"><a href="{{ site.url }}/rt.html">Comentarios</a></li></center></buttom>
-                <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="readmore"><a href="{{ site.url }}/rt.html">Mostrar Mas</a></li></center><buttom>
-              </ul>
-            </div>
-    			</div>
+          <br>
+
+          <h3>Últimas entradas</h3>
 
           {% for post in site.posts limit: 5 %}
 
-            <div class="post">
+          <div class="content" style="margin-top: 35px;">
+            <img src={{ post.image }} class="picB floatleft" alt="" />
+            {{ post.description }}
+          </div>
+          <div class="footer">
+            <tr>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="comments"><a href="{{ post.url }}">Comentarios</a></td></center></button>
+              <button type="button" class="btn btn-light" style="margin-right: 5px;"><center><td class="readmore"><a href="{{ post.url }}">Mostrar Mas</a></td></center></button>
+            </tr>
+          </div>
 
-              <div class="header">
-                <div class="date">{{ post.fecha }}</div>
-              </div>
-              <br>
-              <div class="header">
-                <h3 style="font-family: 'Oswald', sans-serif;color: #61613f;">
-                  <a href="{{ post.url }}">{{ post.title }}</a>
-                </h3>
-              </div>
-              <div class="content">
-                <img src="{{ post.image }}" class="picB floatleft" alt="{{ post.title }}" />
-                <p>{{ post.description }}</p>
-              </div>
-              <div class="footer">
-                <ul>
-                  <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="comments"><a href="{{ post.url }}">Comentarios</a></li></center></buttom>
-                  <button type="button" class="btn btn-secondary" style="margin-right: 5px;background: #d4cdcd;"><center><li class="readmore"><a href="{{ post.url }}">Mostrar Mas</a></li></center><buttom><!-- #a09a9a aba3a3 c6bfbf d4cdcd-->
-                </ul>
-              </div>
-
-            </div>
-
-
-
+          <br>
+          
+          <div class="espacio" style="border-bottom: dotted 1px grey;"></div>
           {% endfor %}
+
+
 
           {% include algolia.html %}
 
@@ -122,42 +88,59 @@
 
         <div id="secondarycontent">
 
-          <h3 style="color: #61613f;"><a href="{{ site.url }}/sci6bita.html">Acerca de Sci6Bita</a></h3><!-- font-family: fantasy; -->
+          <h3 style="color: #61613f;"><a href="{{ site.url }}/sci6bita.html">Agencia Sci6Bita</a></h3><!-- font-family: fantasy; -->
           <div class="content">
-            <a href="{{ site.url }}/sci6bita.html"><img src="images/Sci6Bitaeicon.png" class="picB" alt="Sci6Bita - Agencia de Opiniones" style="margin-bottom: 10px;" /></a>
+            <a href="{{ site.url }}/sci6bita.html"><img src="{{ site.url }}/images/Sci6Bitaeicon.png" class="picB" alt="Sci6Bita - Agencia de Opiniones" style="margin-bottom: 10px;" /></a>
             <p>
               Sci6Bita es una Agencia de Opiniones integrada por El 6Ceibita
             </p>
           </div>
 
-          <h3 style="color: #61613f;"><a href="https://www.xn--pearol-xwa.org/Penas/Proyectos-Penas-uc169">Acerca de Pen1as del CA Penarol</a></h3>
+          <h3 style="color: #61613f;"><a href="https://www.xn--pearol-xwa.org/Penas/Proyectos-Penas-uc169">Pen1as</a></h3>
     			<div class="content">
-    				<a href="https://www.xn--pearol-xwa.org/Penas/Proyectos-Penas-uc169"><img src="images/rect2651.png" class="picB" alt="Las Peñas del CA Peñarol  " style="margin-bottom: 10px;" /></a> <!-- images/pen1as.png -->
+    				<a href="https://www.xn--pearol-xwa.org/Penas/Proyectos-Penas-uc169"><img src="{{ site.url }}/images/rect2651.png" class="picB" alt="Las Peñas del CA Peñarol  " style="margin-bottom: 10px;" /></a> <!-- images/pen1as.png -->
     				<p>
     					En el exterior 10 socios con la cuota al dia pueden formar una Pen1a del CA Penarol
             </p>
-            <p>
-              En Uruguay 20 socios con la cuota al dia pueden tambien formar una Pen1a del CA Penarol
-            </p>
     			</div>
 
+          <h3 style="color: #61613f;"><a href="{{ site.url }}/mas-grande-que-yo.html">Publicidad</a></h3>
           <div class="content">
-            <div class="anuncios-gratis" style="color: #fff;background: #000;font-weight: 900;">
-              <p>¡Su anuncio puede publicarse aqui gratis!</p>
-              <p>contacto: ceibita@mail.ru</p>
-            </div>
+            <!--<div class="anuncios-gratis" style="color: #fff;background: #000;font-weight: 900;">-->
+              <!--<p>¡Su anuncio puede publicarse aqui gratis!</p>
+              <p>contacto: ceibita@mail.ru</p>-->
+              <a href="{{ site.url }}/mas-grande-que-yo.html">
+                <img src="{{ site.url }}/images/anuncio.png">
+              </a>
+            <!--</div>-->
           </div>
 
           <div class="content">
-            <div class="anuncios-gratis dominguez-propaganda" style="color: #fff;background: red;font-weight: 900;">
-              <p style="color: #fff;">José Carlos Domínguez es una exelente persona e inspira confianza</p>
-              <p style="color: #fff;">¡Ojalá se postule!</p>
-            </div>
+            <!--<div class="anuncios-gratis" style="color: #fff;background: #000;font-weight: 900;">-->
+              <!--<p>¡Su anuncio puede publicarse aqui gratis!</p>
+              <p>contacto: ceibita@mail.ru</p>-->
+              <a href="{{ site.url }}/mas-grande-que-yo.html">
+                <img src="{{ site.url }}/images/suanuncio.png">
+              </a>
+            <!--</div>-->
           </div>
 
-          <h3 style="color: #61613f;">Wuaheguru wuahe. Wuaheguru Jika!</h3>
+          <h3 style="color: #61613f;"><a href="https://91.92.66.82/trash/ttv-list/">Listas IPTV (acestream)</a></h3>
+          <div class="content">
+            <!--<div class="anuncios-gratis" style="color: #fff;background: #000;font-weight: 900;">-->
+              <!--<p>¡Su anuncio puede publicarse aqui gratis!</p>
+              <p>contacto: ceibita@mail.ru</p>-->
+              <a href="https://91.92.66.82/trash/ttv-list/">
+                <img src="{{ site.url }}/images/text1964.png" style="width: 186px;padding: 0px;">
+              </a>
+            <!--</div>-->
+          </div>
+
+
+
+          <h3 style="color: #61613f;">Wuaheguru wuahe. Wuaheguru jika!</h3>
     			<div class="content">
-    				<img src="{{ site.url }}/images/rect889.png" class="picB" alt="Las Peñas del CA Peñarol  " style="margin-bottom: 10px;" /> <!-- images/pen1as.png -->
+    				<img src="{{ site.url }}/images/wuaheguru.png" class="picB" alt="Las Peñas del CA Peñarol  " style="margin-bottom: 10px;" /> <!-- images/pen1as.png -->
     				<!--<p>
     					En el exterior 10 socios con la cuota al dia pueden formar una Pen1a del CA Penarol
             </p>
@@ -165,6 +148,7 @@
               En Uruguay 20 socios con la cuota al dia pueden tambien formar una Pen1a del CA penarol
             </p>-->
     			</div>
+
 
         </div>
         <!-- end secondarycontent -->
