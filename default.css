@@ -156,11 +156,10 @@ z-index: 2;
 #header
 {
 position: absolute;
-background-image: url(/{{ site.url }}/images/dios.png) no-repeat; /* images/a8.gif repeat-x #FF7800 */
+background: url(/images/banner3.png) no-repeat; /* images/a8.gif repeat-x #FF7800 */
 left: 30px;
 width: 686px; /* 202px 303px */
 height: 92px;
-color: #fff;
 margin-left: 0px;
 }
 
