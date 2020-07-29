@@ -23,7 +23,8 @@ Otra conclusion que se puede sacar por las fotos estimadas que se ven por los me
 
 ¿Cual es el numero de contagiados al final en nuestra evolucion como sociedad ¿El numero de `Avogadro`? Indudablemente habria que irse al `sacecito de la infinitesima` para saber si la simbiosis y dependencia del virus con su anfitrion se pudieran matchar en el tiempo como si fuera el mismo el tiempo de ambas vidas, la del  `anfitrion` y la del `virus` entonces no moriria tan rapido el anfitrion, sino de viejo y por esa probable dependencia la muerte del anfitrion seria letal para el propio `virus`. Uno se pregunta si viviendo en esta especie de dimension comun el virus no desvastaria tan rapido a la poblacion. Pero esta vida corta ligado a la rapida reproduccion del organismo huesped y sus colonias determinan que `el virus` es sumamente contagioso.
 
-Lo que de ninguna manera me parece claro es que la dependencia que se crearia entre `anfitrion` y `huesped` va encontra la teoria de que este `virus` sea tan letal como nos dicen que es, va un poco diria yo como encontra  de la teoria de evolucion de `Darwin` y de las mismas leyes naturales del `Cosmos`. El sacecito del `virus` debe ser igual al de mis hijos
+Lo que de ninguna manera me parece claro es que la dependencia que se crearia entre `anfitrion` y `huesped` va encontra la teoria de que este `virus` sea tan letal como nos dicen que es, va un poco diria yo como encontra  de la teoria de evolucion de `Darwin` y de las mismas leyes naturales del `Cosmos`. El `virus` es un ser vivo igual a mi aunque paresca
+raro.
 
 No debemos olvidarnos que el virus siempre es una gripe que degenera en bronquitis o neumonia en personas que no se cuidan o ansianos debiles por otras enfermedades como anomalias cardiovasculares o diabetes.
 
