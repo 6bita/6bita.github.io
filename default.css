@@ -91,6 +91,16 @@ height: 62px;
 padding: 7px;
 }
 
+img.picZ
+{
+  position: relative;
+  top: -2px;
+  background: url('images/a48.png') no-repeat;
+  width:186px;
+  height: 136px;
+  padding: 7px;
+}
+
 img.floatleft
 {
 float: left;
